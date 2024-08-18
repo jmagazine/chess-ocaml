@@ -1,0 +1,32 @@
+---
+# Members of your group.
+group:
+  - name: Andrew Piatetsky
+    netid: ap2356
+  - name: Matthew Baum 
+    netid: mcb376
+  - name: Joshua Magazine
+    netid: jnm224
+  - name: Dominick Chatas
+    netid: dpc99
+# Your PM.
+pm:
+  name: Sophia Pan
+  netid: sp2225
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Chess 2"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/jnm224/cs3110-final-project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  This OCaml-based chess game provides players with an engaging platform to partake in chess matches 
+  against either human opponents or challenging AI adversaries. Moreover, the incorporation of a sophisticated
+  3D renderer utilizing ray tracing technology elevates the gaming experience by delivering visually 
+  immersive environments where the intricacies of the chessboard and its pieces are rendered with 
+  remarkable detail and realism. 
+
+  It will accept mouse inputs and be interactive
